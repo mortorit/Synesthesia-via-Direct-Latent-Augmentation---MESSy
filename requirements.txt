@@ -1,0 +1,7 @@
+numpy>=1.24
+Pillow>=9.5
+torch>=2.1
+torchvision>=0.16
+tqdm>=4.65
+# Optional experiment tracking. The training scripts work without it.
+wandb>=0.16
